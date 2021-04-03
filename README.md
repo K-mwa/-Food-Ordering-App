@@ -1,5 +1,5 @@
 # -Food-Ordering-App
-Android application for Moroccan restaurants
+Android application fully deployable and can be used by restaurants, to list their Menu and accept customers orders.
 
 ## Built With
 Android studio
